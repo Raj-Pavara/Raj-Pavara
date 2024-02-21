@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm Raj Pavara, A undergraduate IT engineer and pa
 - 📂 Repository: https://github.com/Raj-Pavara/tic_tac_toe
 - 📋 Description:Tic_Tac_Toe is simple multyplayer game , devolped using java and Android Stuido.
 
-- #### Leetcode_Daily_Questions
+#### Leetcode_Daily_Questions
 
 - 📂 Repository: https://github.com/Raj-Pavara/Leetcode_Daily_Questions
 - 📋 Description: Leetcode_Daily_Questions contains java solution for daily LeetCode problems in java.
