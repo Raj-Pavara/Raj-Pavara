@@ -30,6 +30,11 @@ Welcome to my GitHub profile! I'm Raj Pavara, A undergraduate IT engineer and pa
 - 📂 Repository: https://github.com/Raj-Pavara/Leetcode_Daily_Questions
 - 📋 Description: Leetcode_Daily_Questions contains java solution for daily LeetCode problems in java.
 
+  #### Alpha_Questions
+
+- 📂 Repository: https://github.com/Raj-Pavara/Alpha_Questions
+- 📋 Description: This repository contains chapter wise DSA problems and their solution of Alpha cource provided by apna college.
+
 
 ### 🤝 Connect with Me
 
